@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: WordPress Theme
-    icon: https://images.freeimages.com/images/large-previews/1cb/close-squirrel-1381764.jpg
+    icon: "/images/close-squirrel-1381764.jpg"
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Responsive Design
